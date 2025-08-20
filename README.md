@@ -35,7 +35,7 @@ _Transforming Emails, Accelerating Productivity Daily_
 
 ## 🧠 Overview
 
-Email-Assistant-VK is a versatile developer toolkit that integrates AI-driven communication, research, and transcription functionalities into your applications.
+SMART-EMAIL-ASSISTANT is a versatile developer toolkit that integrates AI-driven communication, research, and transcription functionalities into your applications.
 
 ### 🔑 Key Features
 
